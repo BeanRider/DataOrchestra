@@ -17,9 +17,15 @@ An exploratory, interactive, geographical data visualizatoin of Northeastern Uni
 ## Links
 Gallery360 Exhibition Details: http://www.informationinaction.com/exhibition-northeastern-energy-flows-at-gallery-360/<br />
 Data Orchestra Project Summary: http://www.informationinaction.com/data-orchestra-northeastern-energy-flows/<br />
-Northeastern University Press: http://www.northeastern.edu/news/2016/08/energy-flow/<br />
+Northeastern University CAMD: http://www.northeastern.edu/art/northeastern-energy-flow/
 
 ## Team Credits
 Principal Investigator: Kristian Kloeckl<br />
 Research Assistants: Jeffrey Weng, Jennifer Heintz<br />
-Additional support during phase one: Mavez Dabas, Peyton Tiroff, Yuecan Fan, Corey Hoard
+Additional support during phase one: Mavez Dabas, Peyton Tiroff, Yuecan Fan, Corey Hoard<br />
+
+With technical support from Northeastern University Energy Group at the Facilities Division, Office of the University Registrar, Marketing and Communications.<br />
+Special thanks to Joe Ranahan.
+
+This project is part of the Tier 1 Grant initiative “Institutional Data and Energy Flows”<br />
+PIs: Kristian Kloeckl, Guevara Noubir, Matthias Ruth
