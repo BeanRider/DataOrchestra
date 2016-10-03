@@ -12,7 +12,7 @@ An exploratory, interactive, geographical data visualizatoin of Northeastern Uni
 <img src="http://www.informationinaction.com/wp-content/uploads/2015/09/temporal_scales.jpg" />
 
 ## Video Demo
-<iframe width="640" height="383" src="https://www.youtube.com/embed/8ulJf-5w1co" frameborder="0" allowfullscreen></iframe>
+[![Data Orchestra Demo Video](https://img.youtube.com/vi/8ulJf-5w1co/0.jpg)](https://www.youtube.com/watch?v=8ulJf-5w1co)
 
 ## Links
 Gallery360 Exhibition Details: http://www.informationinaction.com/exhibition-northeastern-energy-flows-at-gallery-360/
