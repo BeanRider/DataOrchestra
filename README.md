@@ -15,11 +15,11 @@ An exploratory, interactive, geographical data visualizatoin of Northeastern Uni
 [![Data Orchestra Demo Video](https://img.youtube.com/vi/8ulJf-5w1co/0.jpg)](https://www.youtube.com/watch?v=8ulJf-5w1co)
 
 ## Links
-Gallery360 Exhibition Details: http://www.informationinaction.com/exhibition-northeastern-energy-flows-at-gallery-360/
-Data Orchestra Project Summary: http://www.informationinaction.com/data-orchestra-northeastern-energy-flows/
-Northeastern University Press: http://www.northeastern.edu/news/2016/08/energy-flow/
+Gallery360 Exhibition Details: http://www.informationinaction.com/exhibition-northeastern-energy-flows-at-gallery-360/<br />
+Data Orchestra Project Summary: http://www.informationinaction.com/data-orchestra-northeastern-energy-flows/<br />
+Northeastern University Press: http://www.northeastern.edu/news/2016/08/energy-flow/<br />
 
 ## Team Credits
-Principal Investigator: Kristian Kloeckl
-Research Assistants: Jeffrey Weng, Jennifer Heintz
+Principal Investigator: Kristian Kloeckl<br />
+Research Assistants: Jeffrey Weng, Jennifer Heintz<br />
 Additional support during phase one: Mavez Dabas, Peyton Tiroff, Yuecan Fan, Corey Hoard
