@@ -1,4 +1,4 @@
-# Project Data Orchestra
+# Project Data Orchestra (Aug. 2015 — Sept. 2015)
 
 ## Summary
 An exploratory, interactive, geographical data visualizatoin of Northeastern University's energy consumption, juxtaposed with campus activity, classroom occupation, facility type, climate & twitter activities.
